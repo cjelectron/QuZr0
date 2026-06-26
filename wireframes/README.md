@@ -46,4 +46,4 @@ To establish a clear, version‑controlled foundation for:
 ---
 
 ## 🔹 Author
-Designed and Architected as Founder by **Rozie**,
+Designed and Architected as Founder by **Cj Electron**,
